@@ -1,2 +1,1 @@
-# trex-x
-juego de trex
+# PROC9_P5Juego
